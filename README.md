@@ -14,3 +14,5 @@ Le fichier `index.html` contient un modèle de page dans lequel vous renseignere
 Cette page sera donc accessible en ajoutant simplement `mmi` à la suite de votre nom de domaine (par exemple : http://xaviersenente.fr/mmi)
 
 
+coucou
+
